@@ -1,10 +1,30 @@
 Code Book
 
-This code book summarizes the resulting data fields in tidy.txt.
-Identifiers
+## Project Description
+Short description of the project
 
+##Study design and data processing
     subject - The ID of the test subject
     activity - The type of activity performed when the corresponding measurements were taken
+    
+###Collection of the raw data
+Dataset available at
+http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+###Notes on the original (raw) data 
+
+Attribute Information:
+
+For each record in the dataset it is provided:
+- Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
+- Triaxial Angular velocity from the gyroscope.
+- A 561-feature vector with time and frequency domain variables.
+- Its activity label.
+- An identifier of the subject who carried out the experiment. 
+
+##Creating the tidy datafile
+
+
 
 Measurements
 
